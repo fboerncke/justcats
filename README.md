@@ -1,4 +1,4 @@
 # Just Cats
 HTML 5 Application, JQuery
 
-See in action: [http://justcats.applicate.de]
+See in action: http://justcats.applicate.de
